@@ -1,2 +1,3 @@
-# sub_modules1m kunal sharma
-iam in iiit sonepat
+# sub_module
+This is my first git repository
+Author-Kunal Sharma
